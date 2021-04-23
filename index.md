@@ -16,6 +16,11 @@
 
     24th April – 7:55pm – Winner Announcement
 
+Link to the Orientation Presentation - https://github.com/psamant30/TACC-Smart-City-Hackathon/blob/main/Orientation.pptx
+
+Link to Accessing Frontera - https://github.com/psamant30/TACC-Smart-City-Hackathon/blob/main/AccessingFrontera%20(1).pptx
+
+Link to Isntructions for Data Access - 
 
 ![Flyer](Flyer-1.jpg)
 
