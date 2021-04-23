@@ -20,7 +20,7 @@ Link to the Orientation Presentation - https://github.com/psamant30/TACC-Smart-C
 
 Link to Accessing Frontera - https://github.com/psamant30/TACC-Smart-City-Hackathon/blob/main/AccessingFrontera%20(1).pptx
 
-Link to Isntructions for Data Access - 
+Link to Instructions for Data Access - 
 
 ![Flyer](Flyer-1.jpg)
 
